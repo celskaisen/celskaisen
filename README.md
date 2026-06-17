@@ -1,6 +1,5 @@
-# <a href="https://qqquestionmmmark.netlify.app">qmrk (site)</a>
-- this person is alive
-- owns the channel called: https://youtube.com/@Vuzion
-- if you could, please sub (?)
-- inactive on here, i don't program.
-- goodmorning/goodnight.
+# <a href="https://qqquestionmmmark.netlify.app">qqquestionmmmark (site)</a>
+- i am alive
+- i own the channel called Vuzion, https://youtube.com/@Vuzion
+- i am inactive on here, i don't program.
+- goodmorning/goodnight(?).
